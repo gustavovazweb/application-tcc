@@ -1,0 +1,39 @@
+/**GENERAL**/
+html,body{margin: 0;padding: 0;background: #c6c6c6;}
+i{cursor: pointer;}
+h5{color: #343a40 !important;}
+
+/**CUSTOM**/
+.bold{font-weight: 900;}
+.margin1 {margin-top: 100px;}
+.logo{width: 25px;margin: 5px;}
+.main{width: 100%;height: 560px;}
+.navbar{position: absolute;width: 100%;}
+.border{padding: 20px;border-radius: 8px;background: #343a40}
+.menu {margin-bottom: 25px;}
+.page {border:solid 2px #fff;padding:25px !important;}
+li a {color: #fff;}
+li a:hover {text-decoration: none;color: #009933;}
+h4 {color: #009933 !important;}
+li.list-group-item{background-color: #343a40;}
+.icon{color: #009933;}
+.icon:hover{color: green;}
+.icons1{width: 20px;position:absolute;margin-top: 10px;margin-left: 5px;}
+.icons2{padding-left: 30px;}
+.breadcrumb{background-color: #343a40;}
+
+/*BREAK POINTS*/
+/*SMALL DEVICES - SMARTPHONES*/
+@media only screen and (max-width: 590px) {
+    
+    }
+    
+/*MEDIUM DEVICES - TABLETS*/
+@media only screen and (min-width: 601px) {
+    
+    }
+    
+/*LARGE DEVICES - DESKTOP*/
+@media only screen and (min-width: 993px) {
+    
+    }
