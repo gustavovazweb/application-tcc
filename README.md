@@ -23,25 +23,25 @@ This is my university completion of final work which is basically a simple comme
 	<tr>
 		<td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/68481189/88077608-d71ccd80-cb51-11ea-9019-5c2b557f2210.jpg">
+			<img width="1080" src="https://user-images.githubusercontent.com/68481189/111632539-580c9180-87d3-11eb-8513-8813f83d1d53.png">
 		</td>   
 	</tr>
   <tr>
    <td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/68481189/88077613-d84dfa80-cb51-11ea-963e-b56f7a494a21.jpg">
+			<img width="1080" src="https://user-images.githubusercontent.com/68481189/111632545-593dbe80-87d3-11eb-999d-491d91200967.png">
 		</td>   
   </tr>
   <tr>
    <td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/68481189/88077617-d97f2780-cb51-11ea-91c3-4fd67ac8d365.jpg">
+			<img width="1080" src="https://user-images.githubusercontent.com/68481189/111632551-59d65500-87d3-11eb-8802-811a486949e5.png">
 		</td>   
   </tr> 
   <tr>
    <td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/68481189/88077623-da17be00-cb51-11ea-82bf-5f27b1c8cbf2.jpg">
+			<img width="1080" src="https://user-images.githubusercontent.com/68481189/111632557-5b078200-87d3-11eb-94d7-2f30cd389329.png">
 		</td>   
   </tr>
 </table>
